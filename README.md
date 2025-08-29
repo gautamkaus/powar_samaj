@@ -14,6 +14,7 @@ Powar/
 
 ## Frontend (`/frontend`)
 
+
 A modern React application built with:
 - **React 18** with TypeScript
 - **Vite** for fast development and building
